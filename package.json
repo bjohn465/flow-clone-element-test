@@ -1,0 +1,17 @@
+{
+  "name": "flow-clone-element-test",
+  "version": "1.0.0",
+  "description": "Testing Flow with React.cloneElement",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "0.54.0",
+    "react": "16.0.0",
+    "react-dom": "16.0.0"
+  },
+  "private": true,
+  "scripts": {
+    "flow": "flow check",
+    "flow-raw": "flow"
+  }
+}
